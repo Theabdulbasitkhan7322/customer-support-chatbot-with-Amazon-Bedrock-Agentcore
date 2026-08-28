@@ -2,26 +2,6 @@
     "Items": [
         {
             "environment": {
-                "S": "Safari on macOS Sonoma"
-            },
-            "createdAt": {
-                "S": "2026-08-28T11:14:14.775660+00:00"
-            },
-            "stepsToReproduce": {
-                "S": "I type a product name and press enter, nothing shows up"
-            },
-            "description": {
-                "S": "the search bar isn't returning any results"
-            },
-            "ticketId": {
-                "S": "b67270b8-eb9f-4bc3-b156-2104306c4ac9"
-            },
-            "status": {
-                "S": "OPEN"
-            }
-        },
-        {
-            "environment": {
                 "S": "Chrome on Windows 11, Motorola device"
             },
             "createdAt": {
@@ -35,6 +15,66 @@
             },
             "ticketId": {
                 "S": "fb2398c2-2114-46c8-847b-226545324760"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "not specified"
+            },
+            "createdAt": {
+                "S": "2026-08-28T06:10:53.364833+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "not specified"
+            },
+            "description": {
+                "S": "my whishlist is not loading"
+            },
+            "ticketId": {
+                "S": "f3d4f581-92a3-4ace-82c5-9b322255b806"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "Safari 17 on iPhone"
+            },
+            "createdAt": {
+                "S": "2026-08-28T09:58:01.790064+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "tap a category"
+            },
+            "description": {
+                "S": "the images never load"
+            },
+            "ticketId": {
+                "S": "d0fe6346-4562-4300-b282-0a521ca31c00"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "Safari 17 on iPhone"
+            },
+            "createdAt": {
+                "S": "2026-08-28T06:21:22.497962+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "Tap a category."
+            },
+            "description": {
+                "S": "The images never load when I tap a category."
+            },
+            "ticketId": {
+                "S": "c5b9f5b6-9da4-4e75-b373-b74f5623f52d"
             },
             "status": {
                 "S": "OPEN"
@@ -81,7 +121,7 @@
             }
         }
     ],
-    "Count": 4,
-    "ScannedCount": 4,
+    "Count": 6,
+    "ScannedCount": 6,
     "ConsumedCapacity": null
 }
