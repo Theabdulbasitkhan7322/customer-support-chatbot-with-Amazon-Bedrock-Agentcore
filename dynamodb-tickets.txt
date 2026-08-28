@@ -1,0 +1,87 @@
+{
+    "Items": [
+        {
+            "environment": {
+                "S": "Safari on macOS Sonoma"
+            },
+            "createdAt": {
+                "S": "2026-08-28T11:14:14.775660+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "I type a product name and press enter, nothing shows up"
+            },
+            "description": {
+                "S": "the search bar isn't returning any results"
+            },
+            "ticketId": {
+                "S": "b67270b8-eb9f-4bc3-b156-2104306c4ac9"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "Chrome on Windows 11, Motorola device"
+            },
+            "createdAt": {
+                "S": "2026-08-28T09:46:25.908529+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "When I open the app, it says to update it. When I do update it, it never opens."
+            },
+            "description": {
+                "S": "The app keeps updating but never opens."
+            },
+            "ticketId": {
+                "S": "fb2398c2-2114-46c8-847b-226545324760"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "window 11 os chrome"
+            },
+            "createdAt": {
+                "S": "2026-08-28T08:47:58.331672+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "i open the app it won't open"
+            },
+            "description": {
+                "S": "the app keeps crashing"
+            },
+            "ticketId": {
+                "S": "70f158f2-8c23-465c-844f-3799e728d3e2"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "Chrome 151 on Windows 11."
+            },
+            "createdAt": {
+                "S": "2026-08-28T06:01:31.726266+00:00"
+            },
+            "description": {
+                "S": "My payment page crashes when I try to complete checkout."
+            },
+            "stepsToReproduce": {
+                "S": "Trying to complete checkout."
+            },
+            "ticketId": {
+                "S": "e177145f-7177-4bd8-ac5c-3e72d288a3e6"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        }
+    ],
+    "Count": 4,
+    "ScannedCount": 4,
+    "ConsumedCapacity": null
+}

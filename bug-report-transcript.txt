@@ -1,0 +1,11 @@
+Connected to harness support_chatbot (session 4a74378a-44ec-48a5-b475-2d542e283548-support-chat).
+Type a message, or 'quit' to exit.
+you> hi why is the app keeps crashing
+bot> Please tell me the browser, operating system, or device you're using.
+you> window 11 os chrome
+bot> Thanks for letting me know. Please tell me the steps you take before the app crashes.
+you> i open the app it won't open
+bot> Thanks — I've filed that as ticket 70f158f2-8c23-465c-844f-3799e728d3e2. Our team will take a look.
+you> ok
+bot> If you have any more questions or need further assistance, feel free to ask.
+you> quit
